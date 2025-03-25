@@ -1,0 +1,4 @@
+com\mycompany\recordstoremanager\JakartaRestConfiguration.class
+northofnola\models\Record.class
+com\mycompany\recordstoremanager\resources\JakartaEE11Resource.class
+northofnola\controllers\CatalogServlet.class
